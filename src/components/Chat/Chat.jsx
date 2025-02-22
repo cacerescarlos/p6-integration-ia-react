@@ -2,7 +2,7 @@ import styles from "./Chat.module.css"
 const WELCOME_MESSAGE = 
     {
       role: "assistant",
-      content: "Hello! Como te puedo ayudar hoy?",
+      content: "Hola! Como te puedo ayudar hoy?",
     }
   ;
 

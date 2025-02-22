@@ -25,7 +25,7 @@ export function Controls({ onSend}) {
             <div className={styles.TextAreaContainer} >
                 <textarea
                  className={styles.TextArea} 
-                 placeholder="Message IA Chat"
+                 placeholder="Escribe aqui!"
                  value={content}
                  onChange={handleContentChange}
                  onKeyDown={handleEnterPress}
