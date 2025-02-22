@@ -24,3 +24,4 @@ https://aistudio.google.com/app/apikey
 
 
 npm install @google/generative-ai
+npm install openai
